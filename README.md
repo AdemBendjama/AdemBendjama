@@ -7,5 +7,4 @@
 - - Facebook      https://www.facebook.com/profile.php?id=100008287604263
 - - Twitter       https://twitter.com/BendjamaAdem
 - - Instagram     https://www.instagram.com/adampipou/
-- - My WebSites   https://app.netlify.com/teams/adembendjama/overview
 

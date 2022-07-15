@@ -1,5 +1,5 @@
 - Hi, I’m Adem Bendjama From Algeria 
-- I’m currently learning Java And Making Projects Here And There, While Being on University.
+- I’m currently learning Web Dev And Making Projects Here And There, While Being on University.
 - Coding, Basketball, Manga, Anime, Movies, Tv Shows, Drawing. All The Good Stuff.
 - Info: 
 - - Email         adembendjama22@gmail.com
